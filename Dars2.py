@@ -1,7 +1,10 @@
-ism="ahad"
-familiya="qayum"
-matn="Men yangi ⌚ oldim."
-ism_familiya=f"{ism} {familiya}"
+## Matnlar bilan ishlash
+
+
+# ism="ahad"
+# familiya="qayum"
+# matn="Men yangi ⌚ oldim."
+# ism_familiya=f"{ism} {familiya}"
 #print(matn)
 #print(ism + familiya)
 #print(ism+ " " + familiya)
@@ -12,7 +15,7 @@ ism_familiya=f"{ism} {familiya}"
 #print(ism_familiya.title())
 #print(ism_familiya.capitalize())
 
-meva="    olma    "
+# meva="    olma    "
 #print(meva)
 #print("Men" + meva.lstrip() + "yedim")
 #print("Men" + meva.rstrip() + "yedim")
@@ -20,6 +23,6 @@ meva="    olma    "
 
                # INPUT
                
-ism=input("Ismingiz nima ?")
-print("Assalomu alaykum"+" " + ism )
+# ism=input("Ismingiz nima ?")
+# print("Assalomu alaykum"+" " + ism )
                
