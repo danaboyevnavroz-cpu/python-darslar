@@ -4,23 +4,30 @@ Created on Tue Dec 16 12:31:58 2025
 
 @author: User
 """
+## Lug'atlar 
 
-# car_0 = {"model": "ferrari", "rang": "qizil"}
+
+# car_0 = {"model": "ferrari", "rang": "qizil","og'irligi":"500 kg"}
 # print(car_0["model"])
 # print(car_0["rang"])
+# print(car_0["og'irligi"])
 
-# # Lug'atda istalgan ma'lumot turlarini saqlash mumkin
+# Lug'atda istalgan ma'lumot turlarini saqlash mumkin
+
 # talaba_0 = {'ism':'murod olimov','yosh':20,'t_yil':2000}
 # print(f"{talaba_0['ism'].title()},\
 #  {talaba_0['t_yil']}-yilda tu'gilgan,\
 #  {talaba_0['yosh']} yoshda")
 
 # # Yangi kalit so'z va qiymat qo'shish
+
 # talaba_0['kurs'] = 4
 # talaba_0['fakultet'] = 'informatika'
 # talaba_0['ism'] = 'abdulloh'
+# print(talaba_0)
 
-# # Bo'sh lug'at
+# Bo'sh lug'at
+
 # talaba_1 = {}
 # talaba_1['ism'] = 'qobil rasulov'
 # talaba_1['kurs'] = 3
@@ -29,29 +36,36 @@ Created on Tue Dec 16 12:31:58 2025
 # print(f"Talaba {talaba_1['ism'].title()} {talaba_1['kurs']}-kurs")
 
 # # Qiymatni yangilash
+
 # talaba_1['kurs'] = 4
 # print(f"Talaba {talaba_1['ism'].title()} {talaba_1['kurs']}-kurs")
 
-# # Kalit so'z-qiymat ni o'chirib tashlashj
+# Kalit so'z-qiymat ni o'chirib tashlash
+
 # talaba_0 = {'ism':'murod olimov','yosh':20,'t_yil':2000}
 # print(talaba_0)
 # del talaba_0['yosh']
 # print(talaba_0)
 
 # # Lu'gatlarni bir nechta qatorda yozish
+
 # telefonlar = {
+    
 #     'ali':'iphone x',
 #     'vali':'galaxy s9',
 #     'olim':'mi 10 pro',
 #     'orif':'nokia 3310'
+    
 #     }
+# print(telefonlar)
 
-# # get() metodi
+# get() metodi
+
 # phone = telefonlar['ali']
 # print(f"Alining telefoni {phone}")
 
-# # phone = telefonlar['hasan']
-# # print(f"Hasanning telefoni {phone}")
+# phone = telefonlar['hasan']
+# print(f"Hasanning telefoni {phone}")
 
 # phone = telefonlar.get('hasan','Bunday ism mavjud emas')
 # print(phone)
@@ -65,8 +79,8 @@ Created on Tue Dec 16 12:31:58 2025
 #     "string": "Matn",
 #     "list": "Ro'yxat",
 #     "tuple": "O'zgarmas ro'yxat",
-# }
-# # print(python_izohli_lugati['tuple'])
+}
+# print(python_izohli_lugati['tuple'])
 
 # kalit = input("Kalit so'z kiriting:").lower()
 # print(python_izohli_lugati.get(kalit, "Bunday so'z mavjud emas"))
