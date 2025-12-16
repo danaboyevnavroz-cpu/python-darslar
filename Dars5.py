@@ -7,7 +7,7 @@ Created on Sat Nov 22 12:02:12 2025
 
 #  TARTIBLASH
 
-cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
+# cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 # cars.sort()
 # print(cars)
 
@@ -42,7 +42,7 @@ cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 
 #  RO'YXATNI UZUNLIGI
 
-cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
+# cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 # print(len(cars))
 
 
@@ -54,7 +54,7 @@ cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 # sonlar=list(range(0,10))
 # print(sonlar)
 
-toq_sonlar=list(range(1,20,2))
+# toq_sonlar=list(range(1,20,2))
 # print(toq_sonlar)
 
 # juft_sonlar=list(range(2,20,2))
@@ -73,7 +73,7 @@ toq_sonlar=list(range(1,20,2))
 
 #  RO'YXATNI KESISH
 
-cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
+# cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 # print(cars[0:3])
 # print(cars[2:5])
 # print(cars[:4])
@@ -81,7 +81,7 @@ cars=["bmw","mersadez benz","volvo","general motors","tesla","audio"]
 
 #    TUPLE - O'ZGARMAS RO'YXAT
 
-toys=("bus","car","bear","snake","dino")
+# toys=("bus","car","bear","snake","dino")
 # print(toys)
 # print(toys[0])
 # print(toys[1:3])
@@ -94,7 +94,7 @@ toys=("bus","car","bear","snake","dino")
 # toys.remove("bear")
 # print(toys)
 
-toys=list(toys)
+# toys=list(toys)
 # print(toys)
 
 # print(type(toys))

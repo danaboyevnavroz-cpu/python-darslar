@@ -7,9 +7,9 @@ Created on Thu Nov 20 11:55:25 2025
 
 #LIST
 
-mevalar=["olma","o'rik","shaftoli","anor"]
-narxlar=[12000,24000,18000,36000]
-sonlar=["bir","ikki",3,4,5]
+# mevalar=["olma","o'rik","shaftoli","anor"]
+# narxlar=[12000,24000,18000,36000]
+# sonlar=["bir","ikki",3,4,5]
 # ismlar=[]
 
 # print("Birinchi meva:",mevalar[0])
@@ -26,7 +26,7 @@ sonlar=["bir","ikki",3,4,5]
 
 # append()  metodi
 
-mevalar=["olma","o'rik","shaftoli","anor"]
+# mevalar=["olma","o'rik","shaftoli","anor"]
 # mevalar.append("tarvuz")
 # mevalar.append("qovun")
 # print(mevalar)
@@ -34,7 +34,7 @@ mevalar=["olma","o'rik","shaftoli","anor"]
 
 # insert() metodi
 
-mevalar=["olma","o'rik","shaftoli","anor"]
+# mevalar=["olma","o'rik","shaftoli","anor"]
 # mevalar.insert(0,"banan")
 # mevalar.insert(0,"gilos")
 # print(mevalar)
@@ -42,17 +42,17 @@ mevalar=["olma","o'rik","shaftoli","anor"]
 
 # bo'sh ro'yxatni to'ldirish
 
-cars=[]
-cars.append("lasetti")
-cars.append("nexia")
-cars.append("jentra")
-cars.append("kobalt")
+# cars=[]
+# cars.append("lasetti")
+# cars.append("nexia")
+# cars.append("jentra")
+# cars.append("kobalt")
 # print(cars)
 
 # ro'yxatdan elementlarni o'chirib tashlash
 
 
-mevalar=["olma","o'rik","shaftoli","anor"]
+# mevalar=["olma","o'rik","shaftoli","anor"]
 
 # del mevalar[0]
 # del mevalar[1]
@@ -60,15 +60,15 @@ mevalar=["olma","o'rik","shaftoli","anor"]
 
 # remove() metodi
 
-cars.remove("nexia")
-cars.insert(0,"nexia 3")
+# cars.remove("nexia")
+# cars.insert(0,"nexia 3")
 # print(cars)
 
 # pop() metodi
 
-bozorlik=["yog'","un","piyoz","tuxum","guruch"]
-maxsulot=bozorlik.pop(0)
-maxsulot2=bozorlik.pop()
+# bozorlik=["yog'","un","piyoz","tuxum","guruch"]
+# maxsulot=bozorlik.pop(0)
+# maxsulot2=bozorlik.pop()
 # print(maxsulot)
 # print("Men",maxsulot,"sotib oldim")
 # print("olinmagan narsalar",bozorlik)

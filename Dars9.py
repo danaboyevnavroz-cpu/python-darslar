@@ -4,6 +4,7 @@ Created on Tue Dec  9 15:19:47 2025
 
 @author: User
 """
+##  Xatolar turlari
 
 #   SintaxError
 
@@ -58,10 +59,10 @@ Created on Tue Dec  9 15:19:47 2025
 # doira_yuzi=Pi*r**2
 # print(doira_yuzi)
 
-mevalar=["olma","o'rik","nok","behi"]
-for meva in mevalar:
-    print(meva)
-print("Dastur tugadi")
+# mevalar=["olma","o'rik","nok","behi"]
+# for meva in mevalar:
+#     print(meva)
+# print("Dastur tugadi")
 
 
 
