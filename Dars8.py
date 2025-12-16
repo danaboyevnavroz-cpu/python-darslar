@@ -5,41 +5,14 @@ Created on Tue Dec  2 14:31:05 2025
 @author: User
 """
 
-kun=input("Bugun qanday kun? >>> ")
-harorat=float(input("Havo harorati qanday? >>> "))
-if kun.lower()=="shanba" or kun.lower()=="yakshanba" and harorat>30:
-    print("Cho'milgani kettik! ")
-elif kun.lower()=="shanba" or kun.lower()=="yakshanba" and harorat<30:
-    print("Uyda dam olamiz! ")
-else:
-    print("Bugun ish kuni")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# kun=input("Bugun qanday kun? >>> ")
+# harorat=float(input("Havo harorati qanday? >>> "))
+# if kun.lower()=="shanba" or kun.lower()=="yakshanba" and harorat>30:
+#     print("Cho'milgani kettik! ")
+# elif kun.lower()=="shanba" or kun.lower()=="yakshanba" and harorat<30:
+#     print("Uyda dam olamiz! ")
+# else:
+#     print("Bugun ish kuni")
 
     #   ELIF 
 # yosh=int(input("Yoshingiz nechida ? >>> "))
