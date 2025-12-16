@@ -79,7 +79,7 @@ Created on Tue Dec 16 12:31:58 2025
 #     "string": "Matn",
 #     "list": "Ro'yxat",
 #     "tuple": "O'zgarmas ro'yxat",
-}
+# }
 # print(python_izohli_lugati['tuple'])
 
 # kalit = input("Kalit so'z kiriting:").lower()
