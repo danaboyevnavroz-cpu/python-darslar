@@ -1,5 +1,3 @@
-##    Matnlar bilan ishlash 
-
 # ism="ahad"
 # familiya="qayum"
 # matn="Men yangi ⌚ oldim."
