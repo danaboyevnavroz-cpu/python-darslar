@@ -64,6 +64,7 @@ Created on Thu Dec 18 11:36:09 2025
 #         print(f"Iltimos, do'koningizga {buyum} ham olib keling")
 
 # # LUG'AT ELEMENTLARINI TARTIB BILAN CHIQARISH
+
 # print("Do'konimizdagi mahsulotlar:")
 # for mahsulot in sorted(mahsulotlar):
 #     print(mahsulot.title())
@@ -97,6 +98,7 @@ Created on Thu Dec 18 11:36:09 2025
 #     print(tel)
 
 # # set
+
 # print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
 # for tel in set(telefonlar.values()):
 #     print(tel)
