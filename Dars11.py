@@ -23,12 +23,12 @@ Created on Thu Dec 18 11:36:09 2025
 #     print(f"Qiymat: {qiymat} \n")
 
 
-# telefonlar = {
-#     'ali':'iphone x',
-#     'vali':'galaxy s9',
-#     'olim':'mi 10 pro',
-#     'orif':'nokia 3310'
-#     }
+telefonlar = {
+    'ali':'iphone x',
+    'vali':'galaxy s9',
+    'olim':'mi 10 pro',
+    'orif':'nokia 3310'
+    }
 
 # for k, q in telefonlar.items():
 #     print(f"{k.title()}ning telefoni {q}")
@@ -36,13 +36,13 @@ Created on Thu Dec 18 11:36:09 2025
 # # .keys()
 
 
-# mahsulotlar = {
-#     'olma':10000,
-#     'anor':20000,
-#     'uzum':40000,
-#     'anjir':25000,
-#     'shaftoli':30000
-#     }
+mahsulotlar = {
+    'olma':10000,
+    'anor':20000,
+    'uzum':40000,
+    'anjir':25000,
+    'shaftoli':30000
+    }
 
 # print(mahsulotlar.keys())
 
@@ -82,16 +82,16 @@ Created on Thu Dec 18 11:36:09 2025
 # # set
 
 
-# telefonlar = {
-#     'ali':'iphone x',
-#     'vali':'galaxy s9',
-#     'olim':'mi 10 pro',
-#     'orif':'nokia 3310',
-#     'hamida':'galaxy s9',
-#     'maryam':'huawei p30',
-#     'tohir':'iphone x',
-#     'umar':'iphone x'
-#     }
+telefonlar = {
+    'ali':'iphone x',
+    'vali':'galaxy s9',
+    'olim':'mi 10 pro',
+    'orif':'nokia 3310',
+    'hamida':'galaxy s9',
+    'maryam':'huawei p30',
+    'tohir':'iphone x',
+    'umar':'iphone x'
+    }
 
 # print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
 # for tel in telefonlar.values():
@@ -99,8 +99,8 @@ Created on Thu Dec 18 11:36:09 2025
 
 # # set
 
-# print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
-# for tel in set(telefonlar.values()):
-#     print(tel)
+print('Foydalanuvchilar quyidagi telefonlarni ishlatishadi:')
+for tel in set(telefonlar.values()):
+    print(tel)
 
 # toys = {"ball","car","lamp","ball"}
