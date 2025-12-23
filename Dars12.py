@@ -61,20 +61,23 @@ cars=[car_0,car_1,car_2]
 # print(f"{cars[2]["rang"].title()} "
 #       f"{cars[2]["model"]}")
 
-# malibus=[]
-# for n in range(10):
-#     new_car={
-#              "model":"malibu",
-#              "rang":None,       # noaniq rang
-#              "yil":2020,
-#              "narx":None,
-#              "km":0,
-#              "korabka":"avto"
-#             }
-#     malibus.append(new_car)
+malibus=[]
+for n in range(10):
+    new_car={
+             "model":"malibu",
+             "rang":None,       # noaniq rang
+             "yil":2020,
+             "narx":None,
+             "km":0,
+             "korabka":"avto"
+            }
+    malibus.append(new_car)
 # for malibu in malibus:
 #     print(malibu)
     
+for malibu in malibus[:3]:
+    malibu["rang"]="qizil"
+print(malibus)
 
 
 
