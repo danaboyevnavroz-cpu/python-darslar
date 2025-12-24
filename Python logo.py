@@ -2,12 +2,8 @@
 """
 Created on Wed Dec 24 12:51:45 2025
 
-@author: User
+@author: Navro'zbek Danaboyev'
 """
-##    Python dasturlash tili logotipi
-
-
-
 
 print("                              0010010101000011000010001100")
 print("                            00100101010000110000100011000010")
