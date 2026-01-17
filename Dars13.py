@@ -9,7 +9,8 @@ Created on Tue Jan 13 13:00:34 2026
 # son = 1  # son ga 1 qiymatini beramiz
 # while son <= 5:  # toki son 5 dan kichik yoki teng ekan...
 #     print(son, end=" ")  # son ni konsolga chiqaramiz
-#     son = son + 1
+#     # son = son + 1
+#     son+=1
 #     # son += 1 # songa 1 qo'shamiz
     
 
@@ -24,7 +25,7 @@ Created on Tue Jan 13 13:00:34 2026
 #         print(float(qiymat)**2)
 # print('Dastur tugadi')
 
-# # ishora
+# ishora
 # print("Kiritilgan sonning kvadratini qaytaruvchi dastur.")
 # savol = "Istalgan son kiriting "
 # savol += "(dasturni to'xtatish uchun 'exit' deb yozing): "
@@ -64,7 +65,7 @@ Created on Tue Jan 13 13:00:34 2026
 #         continue
 #     print(f"{son} ning kvadrati {son**2} ga teng")
 
-# # # Continue while
+# # Continue while
 # son = 0
 # while son<10:
 #     son += 1
@@ -76,6 +77,7 @@ Created on Tue Jan 13 13:00:34 2026
 # infinite loop
 # son = 0
 # while son<10:
+#     son+=1
 #     if son%2!=0:
 #         continue
 #     else:
@@ -83,16 +85,17 @@ Created on Tue Jan 13 13:00:34 2026
 
 # son = 0
 # while son<10:
+#     son += 1
 #     if son%2!=0:
 #         continue
 #     else:
 #         print(son)
-#     son += 1
+  
 
-# son = 1
-# while son>0:
-#     son += 1
-#     if son%2!=0:
-#         continue
-#     else:
-#         print(son)
+son = 1
+while son<=20:
+    son += 1
+    if son%2!=0:
+        continue
+    else:
+        print(son)
